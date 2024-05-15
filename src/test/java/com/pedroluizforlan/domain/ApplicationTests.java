@@ -1,10 +1,10 @@
-package com.pedroluizforlan.santanderbackend2024;
+package com.pedroluizforlan.domain;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SantanderBackEnd2024ApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
